@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Francis Aweenagua
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Francis 
+last_name: Aweenagua
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤖
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +20,52 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Ashesi University
+    url: https://ashesi.edu.gh/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:faweenagua@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/PhrancisClerk
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/phrancis.clerk/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Faweenagua
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/faweenagua/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=-bvlokAAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0009-0198-4981
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Autonomous Systems
+  - Internet of Things
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Engineering
+    institution: Ashesi University
+    date_start: 2017-09-17
+    date_end: 2021-05-20
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Health Kiosk: An IoT based community health center. Supervised by [Mr. Francis Gatsi](https://www.linkedin.com/in/francis-a-gatsi-247b3914/).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      url: 'https://air.ashesi.edu.gh/bitstreams/d1300623-2f3f-4a55-b9b0-850b70472510/download'
+    
+      Selected Courses:
+      - Machine Learning, Data Science, Data Structures and Algorithms, Control Systems,
+      - Embedded Systems, Internet of Things, Computer Organisation and Architecture, System Dynamics,
+      - Calculus 1, Calculus 2, Statistics, Multivariable Calculus and Linear Algebra, Differential Equations and Numerical Methods
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
