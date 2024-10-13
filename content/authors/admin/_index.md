@@ -115,10 +115,10 @@ skills:
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Hiking
+      - name: Swimming
         description: ""
         percent: 60
-        icon: person-simple-walk
+        icon: swimming
       - name: Cats
         description: ""
         percent: 100
