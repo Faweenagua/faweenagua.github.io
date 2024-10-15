@@ -118,7 +118,7 @@ skills:
       - name: Swimming
         description: ""
         percent: 60
-        icon: custom/swimming
+        icon: hero/beaker
       - name: Cats
         description: ""
         percent: 100
