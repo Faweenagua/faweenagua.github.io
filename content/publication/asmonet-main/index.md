@@ -44,10 +44,10 @@ links:
   - name: Web App
     url: https://solar.arelashesi.com
 
-url_pdf: "conference-paper"
+url_pdf: "/conference-paper"
 url_code: ""
 url_dataset: ""
-url_poster: "conference-poster"
+url_poster: "/conference-poster"
 url_project: ""
 url_slides: ""
 url_source: ""
