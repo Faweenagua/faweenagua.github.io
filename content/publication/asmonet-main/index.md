@@ -6,18 +6,18 @@ title: "An example of some other conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Stewart Isaacs
+  - Jeremiah Takyi
+  - Heather R. Beem
 
 # Author notes (optional)
-author_notes:
-  - "Equal contribution"
-  - "Equal contribution"
+# author_notes:
 
-date: "2013-07-01T00:00:00Z"
+date: "2024-06-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-06-12T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,38 +25,38 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *52nd IEEE Photovoltaic Specialists Conference (PVSC 52)*
+publication_short: In *PVSC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Photovoltaic energy generation has grown substantially in West Africa within the past few years. Dust soiling, however, can reduce generation capacity, especially during the dry season (Harmattan) in this context. Soiling impacts are ideally assessed using ground-based measurements; however, such systems are sparse or missing entirely in the region, leaving gaps in understanding the true extent of soiling impact locally. This work aims to improve solar data availability in West Africa through the design of a ground-based, IoT-enabled PV sensor system to be installed throughout the region, forming a network. The system leverages a two-panel, one-coupon experimental approach to measuring soiling mass accumulation and a sensor suite to provide real-time and historical data on panel performance, air quality, and weather conditions, among others. Preliminary tests show reliable collection of ground-based data and transmission to the cloud for remote access and analysis, highlighting the system’s potential as a research platform for analysis and insight generation on solar PV in West Africa.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This work aims to improve solar data availability in West Africa through the design of a ground-based, IoT-enabled PV sensor system to be installed throughout the region, forming a network.
 
 tags:
-  - Large Language Models
+  - Internet of Things
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+  - name: Web App
+    url: https://solar.arelashesi.com
 
 url_pdf: ""
-url_code: "https://github.com/HugoBlox/hugo-blox-builder"
-url_dataset: "https://github.com/HugoBlox/hugo-blox-builder"
+url_code: ""
+url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://github.com/HugoBlox/hugo-blox-builder"
-url_video: "https://youtube.com"
+url_source: ""
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "The IoT architecture of the monitoring system showing data flow from the sensors to the cloud"
   focal_point: ""
   preview_only: false
 
