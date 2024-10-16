@@ -35,6 +35,7 @@ summary: This work aims to improve solar data availability in West Africa throug
 
 tags:
   - Internet of Things
+  - Solar Energy
 
 # Display this page in the Featured widget?
 featured: true
