@@ -26,7 +26,7 @@ publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *52nd IEEE Photovoltaic Specialists Conference (PVSC 52)*
-publication_short: In *PVSC*
+publication_short: In *PVSC* [Awaiting Publication]
 
 abstract: Photovoltaic energy generation has grown substantially in West Africa within the past few years. Dust soiling, however, can reduce generation capacity, especially during the dry season (Harmattan) in this context. Soiling impacts are ideally assessed using ground-based measurements; however, such systems are sparse or missing entirely in the region, leaving gaps in understanding the true extent of soiling impact locally. This work aims to improve solar data availability in West Africa through the design of a ground-based, IoT-enabled PV sensor system to be installed throughout the region, forming a network. The system leverages a two-panel, one-coupon experimental approach to measuring soiling mass accumulation and a sensor suite to provide real-time and historical data on panel performance, air quality, and weather conditions, among others. Preliminary tests show reliable collection of ground-based data and transmission to the cloud for remote access and analysis, highlighting the system’s potential as a research platform for analysis and insight generation on solar PV in West Africa.
 
@@ -47,7 +47,7 @@ links:
 url_pdf: "publication/asmonet-main/conference-paper.pdf"
 url_code: ""
 url_dataset: ""
-url_poster: "/conference-poster"
+url_poster: "publication/asmonet-main/conference-poster.pdf"
 url_project: ""
 url_slides: ""
 url_source: ""
@@ -76,7 +76,7 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -84,4 +84,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
