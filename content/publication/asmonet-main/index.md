@@ -44,7 +44,7 @@ links:
   - name: Web App
     url: https://solar.arelashesi.com
 
-url_pdf: "publication/asmonet-main/conference-paper"
+url_pdf: "publication/asmonet-main/conference-paper.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: "/conference-poster"
