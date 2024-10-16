@@ -1,5 +1,5 @@
 ---
-title: "An example of some other conference paper"
+title: "Ashesi Solar Monitoring Network (ASMONET): An IoT-Enabled Network for Ground-Based Soiling Measurements in West Africa"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -44,10 +44,10 @@ links:
   - name: Web App
     url: https://solar.arelashesi.com
 
-url_pdf: ""
+url_pdf: "conference-paper"
 url_code: ""
 url_dataset: ""
-url_poster: ""
+url_poster: "conference-poster"
 url_project: ""
 url_slides: ""
 url_source: ""
