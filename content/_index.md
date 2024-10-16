@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: "📚 My Research"
+      title: "📝🔬🔎 My Research"
       subtitle: ""
       text: |-
         I love to research and develop new systems to push the boundaries of Science and Technology especially in Robotics. I am currently working on a project to develop a low-cost state-of-the-art UGV platform for research and robotics education in African Universities.
