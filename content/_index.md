@@ -35,7 +35,7 @@ sections:
       title: "📝🔬🔎 My Research"
       subtitle: ""
       text: |-
-        I love to research and develop new systems to push the boundaries of Science and Technology especially in Robotics. I am currently working on a project to develop a low-cost state-of-the-art UGV platform for research and robotics education in African Universities.
+        I love to research and develop new systems that push the boundaries of Science and Technology especially in Robotics. I am currently working on a project to develop a low-cost, ROS-enabled, interactive robot platform for research and robotics education in African universities.
 
         I am still exploring my interest areas in Robotics but I am excited by Reinforcement Learning in Robotics, Deep Learning for Robots, Computer Vision and Perception, MultiRobot Systems, Robot Decision Making and the confluence of IoT and Robotics.
 

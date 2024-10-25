@@ -167,4 +167,4 @@ languages:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Francis Aweenagua is a Research Assistant at Ashesi University. He works under the Ashesi Resourceful Engineering Lab and is supervised by Dr. Heather Beem and Dr. Ayorkor Korsah. His current research focuses on developing a ROS-enabled interactive service robot for use as a research platform at Ashesi University and other universities across Africa. He has previously developed smart monitoring devices for biogas digesters and solar panels.
