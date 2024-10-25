@@ -1,40 +1,44 @@
 ---
-title: 'An example conference paper'
+title: "Design and Implementation of an IoT-based Smart Household Biogas Digester"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Jeremiah Takyi
+  - Myron N. V. Williams
+  - Francis A. Gatsi
+  - Heather R. Beem
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  # - "Equal contribution"
+  # - "Equal contribution"
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: "2024-07-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: "2023-10-20T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *2024 IEEE IST-Africa Conference (IST-Africa)*
+publication_short: In *IEEE IST-Africa*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: There has been significant growth in investment and adoption of biogas systems over the past few years. However, biogas plants often do not perform optimally through their expected lifespan due to unconducive conditions affecting the complex microbiological anaerobic digestion process. Remote monitoring of digester conditions can aid users in gaining real-time insight into the state and performance of the digester. This paper outlines the design and implementation of a smart biogas digester for the remote monitoring of critical digester conditions using IoT technologies. It measures pH and temperature at different locations in the digester and the amount of methane gas produced. Data collected from the system is transferred through a Wi-Fi gateway to the cloud for storage and analysis of the digester state and performance using a web application. Preliminary results from system testing using unbuffered water indicate the temporal and spatial variation of temperature and relatively constant and low concentrations of methane gas in the digester, as expected.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper outlines the design and implementation of a smart biogas digester for the remote monitoring of critical digester conditions using IoT technologies. It measures pH and temperature at different locations in the digester and the amount of methane gas produced.
 
 tags:
-  - Large Language Models
+  - Internet of Things
+  - Biogas
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,20 +48,20 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: "https://biogas.arelashesi.com/"
+url_slides: ""
+url_source: ""
+url_video: "https://youtu.be/I8R17Cvux7s"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
