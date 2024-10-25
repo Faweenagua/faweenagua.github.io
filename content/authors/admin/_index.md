@@ -167,4 +167,4 @@ languages:
 
 ## About Me
 
-Francis Aweenagua is a Research Assistant at Ashesi University. He works under the Ashesi Resourceful Engineering Lab and is supervised by Dr. Heather Beem and Dr. Ayorkor Korsah. His current research focuses on developing a ROS-enabled interactive service robot for use as a research platform at Ashesi University and other universities across Africa. He has previously developed smart monitoring devices for biogas digesters and solar panels.
+Francis Aweenagua is a Research Assistant at Ashesi University. He works under the Ashesi Resourceful Engineering Lab and is co-supervised by Dr. Heather Beem and Dr. Ayorkor Korsah. His current research focuses on developing a ROS-enabled interactive service robot for use as a research platform at Ashesi University and other universities across Africa. He has previously developed smart monitoring devices for biogas digesters and solar panels.
