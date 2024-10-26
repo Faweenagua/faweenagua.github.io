@@ -140,11 +140,11 @@ skills:
       - name: 🏊 Swimming
         description: ""
         percent: 60
-        icon: "🏊"
-      - name: Table Tennis
+        icon: ""
+      - name: 🎾 Table Tennis
         description: ""
         percent: 100
-        icon: cat
+        icon: ""
       - name: Photography
         description: ""
         percent: 80
