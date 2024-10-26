@@ -75,7 +75,7 @@ work:
     date_end: ""
     summary: |2-
       Responsibilities include:
-      - Designed a ROS-enabled interactive service robot for use as a research platform
+      - Designed a ROS-enabled interactive service robot for use as a research platform.
       - Developing and implementing required algorithms.
       - Documenting research results and presenting weekly updates.
   - position: Founder and Organising Committee Chair
@@ -137,7 +137,7 @@ skills:
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Swimming
+      - name: 🏊 Swimming
         description: ""
         percent: 60
         icon: "🏊"
