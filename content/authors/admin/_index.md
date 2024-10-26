@@ -75,20 +75,42 @@ work:
     date_end: ""
     summary: |2-
       Responsibilities include:
-      - Conducting literature review on the current state of art.
+      - Designed a ROS-enabled interactive service robot for use as a research platform
       - Developing and implementing required algorithms.
       - Documenting research results and presenting weekly updates.
+  - position: Founder and Organising Committee Chair
+    company_name: Ashesi Micromouse Robotics Competition
+    company_url: ""
+    company_logo: ""
+    date_start: 2024-03-01
+    date_end: ""
+    summary: |
+      Responsibilities include:
+      - Founded the first-of-its-kind student robotics competition at Ashesi University.
+      - Trained over 70 students to become proficient in circuit and PCB design, robot design, and algorithms.
+      - Coordinated with the heads of department to organise the competition.
   - position: Research Assistant
     company_name: Ashesi University (Ashesi Resourceful Engineering Lab)
-    company_url: "https://ashesi.edu.gh/"
-    company_logo: "https://ashesi.edu.gh/wp-content/uploads/2023/06/Ashesi_University_Logo.webp"
+    company_url: https://ashesi.edu.gh/
+    company_logo: https://ashesi.edu.gh/wp-content/uploads/2023/06/Ashesi_University_Logo.webp
     date_start: 2022-06-01
     date_end: 2024-08-31
     summary: |
       Responsibilities include:
-      - Developing and implementing system code.
-      - Designing and building two renewable energy monitoring devices.
+      - Engineered a solar panel soiling monitoring system to collect performance data from mounted solar panels and environmental conditions.
+      - Developed a smart biogas digester equipped with sensors to monitor digester conditions. 
       - Documenting research results and presenting weekly updates.
+  - position: Engineering and Social Media Lead
+    company_name: ÉnergieRich
+    company_url: https://www.energierich.org/
+    company_logo: ""
+    date_start: 2022-02-01
+    date_end: ""
+    summary: |
+      Responsibilities include:
+      - Provided technical and logistical support for the development of locally manufactured solar panels.
+      - Developed a STEM education program and trained over 100 kids from underprivileged communities.
+      - Developed an IoT system to monitor the performance of locally manufactured solar panels.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -118,7 +140,7 @@ skills:
       - name: Swimming
         description: ""
         percent: 60
-        icon: 🏊
+        icon: "🏊"
       - name: Table Tennis
         description: ""
         percent: 100
