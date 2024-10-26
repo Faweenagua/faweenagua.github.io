@@ -7,7 +7,7 @@ title: "Design and Implementation of an IoT-based Smart Household Biogas Digeste
 authors:
   - admin
   - Jeremiah Takyi
-  - Myron N. V. Williams
+  - Myron N. Williams
   - Francis A. Gatsi
   - Heather R. Beem
 
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ""
+url_pdf: "https://www.researchgate.net/publication/381908738_Design_and_Implementation_of_an_IoT-based_Smart_Household_Biogas_Digester"
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -60,7 +60,7 @@ url_video: "https://youtu.be/I8R17Cvux7s"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "The IoT architecture of the smart biogas digester showing data flow from the sensors to the cloud"
   focal_point: ""
   preview_only: false
 
@@ -69,18 +69,17 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -88,4 +87,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
