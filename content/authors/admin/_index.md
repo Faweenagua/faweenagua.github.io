@@ -125,14 +125,14 @@ skills:
         description: ""
         percent: 80
         icon: code-bracket
-      - name: ROS
+      - name: 🤖 ROS
         description: ""
         percent: 100
-        icon: code-bracket
+        icon: ""
       - name: Arduino
         description: ""
         percent: 50
-        icon: code-bracket
+        icon: "code-bracket"
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
@@ -141,18 +141,18 @@ skills:
         description: ""
         percent: 60
         icon: ""
-      - name: 🎾 Table Tennis
+      - name: 🏓 Table Tennis
         description: ""
         percent: 100
         icon: ""
-      - name: Photography
+      - name: 📸 Photography
         description: ""
         percent: 80
-        icon: camera
-      - name: Working out
+        icon: ""
+      - name: 🏋🏽‍♂️ Working out
         description: ""
         percent: 80
-        icon: camera
+        icon: ""
 
 languages:
   - name: English
