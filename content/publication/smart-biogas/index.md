@@ -17,10 +17,10 @@ author_notes:
   # - "Equal contribution"
 
 date: "2024-07-01T00:00:00Z"
-doi: ""
+doi: "10.23919/IST-Africa63983.2024.10569515"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-20T00:00:00Z"
+publishDate: "2024-10-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
