@@ -29,7 +29,7 @@ publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2024 IEEE IST-Africa Conference (IST-Africa)*
-publication_short: In *IEEE IST-Africa*
+publication_short: In *2024 IEEE IST-Africa Conference (IST-Africa)*
 
 abstract: There has been significant growth in investment and adoption of biogas systems over the past few years. However, biogas plants often do not perform optimally through their expected lifespan due to unconducive conditions affecting the complex microbiological anaerobic digestion process. Remote monitoring of digester conditions can aid users in gaining real-time insight into the state and performance of the digester. This paper outlines the design and implementation of a smart biogas digester for the remote monitoring of critical digester conditions using IoT technologies. It measures pH and temperature at different locations in the digester and the amount of methane gas produced. Data collected from the system is transferred through a Wi-Fi gateway to the cloud for storage and analysis of the digester state and performance using a web application. Preliminary results from system testing using unbuffered water indicate the temporal and spatial variation of temperature and relatively constant and low concentrations of methane gas in the digester, as expected.
 
