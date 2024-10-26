@@ -67,47 +67,47 @@ education:
         - Embedded Systems, Internet of Things, Computer Organisation and Architecture, System Dynamics,
         - Calculus 1, Calculus 2, Statistics, Multivariable Calculus and Linear Algebra, Differential Equations and Numerical Methods
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ""
-    company_logo: ""
-    date_start: 2021-01-01
+  - position: Research Assistant
+    company_name: Ashesi University (Ashesi Robot Assistant Platform)
+    company_url: "https://ashesi.edu.gh/"
+    company_logo: "https://ashesi.edu.gh/wp-content/uploads/2023/06/Ashesi_University_Logo.webp"
+    date_start: 2024-09-01
     date_end: ""
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ""
-    company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Conducting literature review on the current state of art.
+      - Developing and implementing required algorithms.
+      - Documenting research results and presenting weekly updates.
+  - position: Research Assistant
+    company_name: Ashesi University (Ashesi Resourceful Engineering Lab)
+    company_url: "https://ashesi.edu.gh/"
+    company_logo: "https://ashesi.edu.gh/wp-content/uploads/2023/06/Ashesi_University_Logo.webp"
+    date_start: 2022-06-01
+    date_end: 2024-08-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developing and implementing system code.
+      - Designing and building two renewable energy monitoring devices.
+      - Documenting research results and presenting weekly updates.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: C/C++
-        description: ""
-        percent: 80
-        icon: code-bracket
       - name: Python
         description: ""
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C/C++
+        description: ""
+        percent: 80
+        icon: code-bracket
+      - name: ROS
         description: ""
         percent: 100
-        icon: chart-bar
-      - name: ROS
+        icon: code-bracket
+      - name: Arduino
         description: ""
         percent: 50
         icon: code-bracket
@@ -118,12 +118,16 @@ skills:
       - name: Swimming
         description: ""
         percent: 60
-        icon: hero/beaker
-      - name: Cats
+        icon: 🏊
+      - name: Table Tennis
         description: ""
         percent: 100
         icon: cat
       - name: Photography
+        description: ""
+        percent: 80
+        icon: camera
+      - name: Working out
         description: ""
         percent: 80
         icon: camera
