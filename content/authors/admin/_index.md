@@ -189,6 +189,14 @@ skills:
         description: ""
         percent: 80
         icon: ""
+      - name: 🛣️ Traveling
+        description: ""
+        percent: 80
+        icon: ""
+      - name: ⚽ Football
+        description: ""
+        percent: 80
+        icon: ""
 
 languages:
   - name: English
