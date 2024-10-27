@@ -133,6 +133,14 @@ skills:
         description: ""
         percent: 50
         icon: devicon/matlab
+      - name: PHP
+        description: ""
+        percent: 60
+        icon: devicon/php
+      - name: Javascript
+        description: ""
+        percent: 100
+        icon: devicon/javascript
   - name: Tools
     color: "#eeac02"
     color_border: "#f0bf23"
@@ -153,18 +161,6 @@ skills:
         description: ""
         percent: 80
         icon: devicon/github
-  - name: Others
-    color: "#eeac02"
-    color_border: "#f0bf23"
-    items:
-      - name: PHP
-        description: ""
-        percent: 60
-        icon: devicon/php
-      - name: Javascript
-        description: ""
-        percent: 100
-        icon: devicon/javascript
       - name: MySQL
         description: ""
         percent: 80
