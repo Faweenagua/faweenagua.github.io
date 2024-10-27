@@ -57,7 +57,7 @@ education:
     date_start: 2017-09-17
     date_end: 2021-05-20
     summary: |
-      Thesis on Health Kiosk: An IoT based community health center. Supervised by [Mr. Francis Gatsi](https://www.linkedin.com/in/francis-a-gatsi-247b3914/)
+      Thesis on Health Kiosk: An IoT based community health center. Supervised by [Mr. Francis Gatsi](https://linkedin.com/in/francis-a-gatsi-247b3914/)
     button:
       text: "Read Thesis"
       url: "https://air.ashesi.edu.gh/bitstreams/d1300623-2f3f-4a55-b9b0-850b70472510/download"
