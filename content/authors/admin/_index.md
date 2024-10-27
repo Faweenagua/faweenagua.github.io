@@ -148,7 +148,7 @@ skills:
       - name: Linux
         description: ""
         percent: 80
-        icon: linux
+        icon: devicon/linux
       - name: 🏋🏽‍♂️ Git/GitHub
         description: ""
         percent: 80
