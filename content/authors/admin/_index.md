@@ -202,7 +202,7 @@ languages:
   - name: English
     percent: 100
   - name: French
-    percent: 30
+    percent: 40
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
