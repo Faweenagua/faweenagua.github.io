@@ -120,19 +120,19 @@ skills:
       - name: Python
         description: ""
         percent: 80
-        icon: code-bracket
+        icon: devicon/python
       - name: C/C++
         description: ""
         percent: 80
-        icon: code-bracket
+        icon: devicon/cplusplus
       - name: Arduino
         description: ""
         percent: 100
-        icon: ""
+        icon: devicon/arduino
       - name: MATLAB
         description: ""
         percent: 50
-        icon: "code-bracket"
+        icon: devicon/matlab
   - name: Tools
     color: "#eeac02"
     color_border: "#f0bf23"
@@ -140,19 +140,19 @@ skills:
       - name: ROS
         description: ""
         percent: 60
-        icon: ""
-      - name: 🏓Open CV
+        icon: devicon/ros
+      - name: Open CV
         description: ""
         percent: 100
-        icon: ""
+        icon: devicon/opencv
       - name: Linux
         description: ""
         percent: 80
         icon: devicon/linux
-      - name: 🏋🏽‍♂️ Git/GitHub
+      - name: Git/GitHub
         description: ""
         percent: 80
-        icon: "github"
+        icon: devicon/github
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
