@@ -125,14 +125,34 @@ skills:
         description: ""
         percent: 80
         icon: code-bracket
-      - name: 🤖 ROS
+      - name: Arduino
         description: ""
         percent: 100
         icon: ""
-      - name: Arduino
+      - name: MATLAB
         description: ""
         percent: 50
         icon: "code-bracket"
+  - name: Tools
+    color: "#eeac02"
+    color_border: "#f0bf23"
+    items:
+      - name: ROS
+        description: ""
+        percent: 60
+        icon: ""
+      - name: 🏓Open CV
+        description: ""
+        percent: 100
+        icon: ""
+      - name: Linux
+        description: ""
+        percent: 80
+        icon: "linux"
+      - name: 🏋🏽‍♂️ Git/GitHub
+        description: ""
+        percent: 80
+        icon: "github"
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
