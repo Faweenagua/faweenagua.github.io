@@ -2,6 +2,7 @@
 title: Other Programs and Engagements
 view: article-grid
 date: 2024-10-29
+type: landing
 
 design:
   # Section spacing
