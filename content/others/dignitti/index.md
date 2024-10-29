@@ -1,14 +1,13 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
+title: 🤖 Dignitti Robotics
+summary: Developing cutting-edge robotics solutions through research and development and promoting robotics in Africa through targeted education and training initiatives.
 date: 2024-04-03
 authors:
   - admin
 tags:
-  - Second Brain
-  - Markdown
+  - Dignitti
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Image credit: "
 ---
 
 Create a personal knowledge base and share your knowledge with your peers.
