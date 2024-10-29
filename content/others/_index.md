@@ -1,4 +1,25 @@
 ---
-title: Blog
+title: Other Programs and Engagements
 view: article-grid
+date: 2024-10-29
+
+design:
+  # Section spacing
+  spacing: "5rem"
+
+# Page sections
+sections:
+  - block: collection
+    content:
+      title: Selected Projects
+      text: I enjoy creating positive change. Here are a selection of programs and activities I have been engaged in over the past few years.
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+---
+
 ---
