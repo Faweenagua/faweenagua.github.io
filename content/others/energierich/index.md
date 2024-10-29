@@ -1,7 +1,7 @@
 ---
 title: "🌞 ÉnergieRich"
 summary: Promoting access to renewable energy through local technology development and STEM education.
-date: 2024-10-29
+date: 2024-08-19
 authors:
   - admin
 tags:
