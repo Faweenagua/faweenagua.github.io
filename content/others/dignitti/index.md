@@ -7,7 +7,7 @@ authors:
 tags:
   - Dignitti
 image:
-  caption: "Image credit: "
+  caption: "A group of students building a robot"
 ---
 
 Create a personal knowledge base and share your knowledge with your peers.

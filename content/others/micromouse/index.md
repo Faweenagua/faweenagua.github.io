@@ -1,21 +1,18 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+title: 🐁 Ashesi Micromouse Robotics Competition
+summary: Promoting robotics in African universities through skills development, competition and experiential learning.
 date: 2024-09-29
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Francis helping a team debug their micromouse robot."
 
 authors:
   - admin
-  - Ted
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - Micromouse
 ---
 
 Welcome 👋
