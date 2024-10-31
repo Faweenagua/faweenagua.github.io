@@ -25,7 +25,7 @@ tags:
 4. Ultimately, this competition is structured to enable students to hone their skills in all eight Ashesi Learning Goals by demonstrating critical thinking, working in teams, developing innovative solutions, demonstrating an understanding of key technologies, and excellently communicating their ideas, among others.
 5. The competition also presents an opportunity for cross-departmental collaboration and multi-disciplinary teams, as students will need skills from multiple disciplines to solve the challenge.
 
-### Objectives
+## Objectives
 
 The competition aims to achieve several objectives before, during, and after the main contest. These objectives satisfy the interests of several stakeholders in the university. The primary objectives of the competition include the following.
 
