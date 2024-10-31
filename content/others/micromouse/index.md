@@ -36,7 +36,7 @@ The competition aims to achieve several objectives before, during, and after the
 - Promote robotics education, research, and projects at Ashesi University.
 - Ensure cross-departmental collaboration and engagement.
 
-![Competition Maze Developed at Ashesi University](/maze.jpg "Competition Maze")
+![Competition Maze Developed at Ashesi University](/maze.jpg "Competition Maze Developed at Ashesi University")
 
 ## Impact and Expected Outcomes
 
