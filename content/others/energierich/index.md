@@ -7,7 +7,7 @@ authors:
 tags:
   - ÉnergieRich
 image:
-  caption: "Inspection of local-made solar panels mounted at Tamale Technical University"
+  caption: "Inspection of locally-made solar panels mounted at Tamale Technical University"
 ---
 
 Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
