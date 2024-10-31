@@ -10,128 +10,27 @@ image:
   caption: "A group of students building a robot"
 ---
 
-Create a personal knowledge base and share your knowledge with your peers.
+## Overview
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+Robotics has seen significant growth across the world in the last decade. Many advances have been made to both improve and expand robotics technologies. However, these advances have been largely spearheaded by Western and Asian research institutions and companies. Very little has been contributed to robotics development from African soil. As a result, very few robots exist that have been designed with the African context in mind. At the same time, many other robots are not useful in Africa. In addition, many pressing problems in Africa that could easily be solved with robots have been left unattended because of the lack of robotics companies.
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+## Objectives
 
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
+1. Develop robotics solutions for everyday problems through research and development.
+2. Promote robotics education in Africa through targeted educational programs.
+3. Provide an avenue for young African talents to hone skills and build experience in robotics.
 
-## Mindmaps
+## Works
 
-Hugo Blox supports a Markdown extension for mindmaps.
+- Currently, we focus on providing robotics training to basic school students in Ghana.
+- We have trained over 50 students to build and program different kinds of small robots.
+- Through our training program, students have developed line-following robots, obstacle avoidance robots, pick-n-place robots, etc.
 
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
-
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
-
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-Anh here's a more advanced mindmap with formatting, code blocks, and math:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-````markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-````
-
-## Highlighting
-
-<mark>Highlight</mark> important text with `mark`:
-
-```html
-<mark>Highlighted text</mark>
-```
-
-## Callouts
-
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
-By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
-
-```markdown
-{{%/* callout note */%}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /callout */%}}
-```
-
-renders as
-
-{{% callout note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-Or use the `warning` callout type so your readers don't miss critical details:
-
-{{% callout warning %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
+![Dignitti Robotics training session](/picture1.jpg "Competition Maze Developed at Ashesi University")
+![Dignitti Robotics training session](/picture2.jpg "Competition Maze Developed at Ashesi University")
+![Dignitti Robotics training session](/picture3.jpg "Competition Maze Developed at Ashesi University")
+![Dignitti Robotics training session](/picture4.jpg "Competition Maze Developed at Ashesi University")
+![Dignitti Robotics training session](/picture5.jpg "Competition Maze Developed at Ashesi University")
+![Dignitti Robotics training session](/picture6.jpg "Competition Maze Developed at Ashesi University")
 
 ## Did you find this page helpful? Consider sharing it 🙌
