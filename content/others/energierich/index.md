@@ -14,6 +14,8 @@ image:
 
 <iframe width="660" height="390" src="https://www.youtube.com/embed/VPBSfWgTa9A?si=S0w4i1uODkSeSq9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VPBSfWgTa9A?si=r_pq-8sKa9mXFV4I&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Our Mission
 
 We seek to spark a transformation of the organization of economic production and innovation in underserved communities while inspiring global social consciousness for STEM innovators. Our work introduces locally assembled solar products at a lower cost than imported manufactured goods. The production of economically viable and socio-cultural appropriate technology produced by local populations, provides economic, educational, technological and health stimulus.
@@ -27,10 +29,23 @@ We seek to spark a transformation of the organization of economic production and
 
 ## My Work
 
-I lead engineering and social media content at ÉnergieRich. I coordinate the engineering team and provide technical support for the development of our solar panels and other systems. I also provide logistical support ensuring that the tools, materials and equipment required for product development are available.
+I lead the engineering team and manage social media engagement at ÉnergieRich. My role involves coordinating the engineering team and providing technical support for the development of our solar panels and other systems. Additionally, I ensure that the necessary tools, materials, and equipment for product development are available, offering logistical support to facilitate our projects.
 
-In addition, I support the development of our STEM education training program for K-12 students in some underserved schools in Tamale, Ghana. I lead sessions and train these students to become profitient in basic electronics, coding, Arduino, robotics, etc.
+Additionally, I support the development of a STEM education training program for K-12 students in underserved schools in Tamale, Ghana. I lead sessions and train these students to become proficient in basic electronics, coding, Arduino, robotics, and more.
 
-I also lead the development of our solar panel and environmental monitoring system. This system enables us and our users to remotely and in real-time know the performance of our solar systems and weather conditions.
+I lead the development of our solar panel and environmental monitoring system. This system allows us and our users to monitor the performance of our solar systems and weather conditions remotely and in real time.
+
+### Pictures
+
+Pictures of some of the programs and activities I have been involved in over past few year at ÉnergieRich.
+
+![ÉnergieRich programs picture](/picture1.jpg)
+![ÉnergieRich programs picture](/picture3.jpg)
+![ÉnergieRich programs picture](/picture4.jpg)
+![ÉnergieRich programs picture](/picture6.jpg)
+![ÉnergieRich programs picture](/picture7.jpg)
+![ÉnergieRich programs picture](/picture8.jpg)
+![ÉnergieRich programs picture](/picture9.jpg)
+![ÉnergieRich programs picture](/picture10.jpg)
 
 ## Did you find this page helpful? Consider sharing it 🙌
