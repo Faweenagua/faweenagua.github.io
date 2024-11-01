@@ -38,9 +38,10 @@ I lead the development of our solar panel and environmental monitoring system. T
 Pictures of some of the programs and activities I have been involved in over past few year at ÉnergieRich.
 
 ![ÉnergieRich programs picture](/picture1.jpg)
+![ÉnergieRich programs picture](/picture2.jpg)
+![ÉnergieRich programs picture](/picture6.jpg)
 ![ÉnergieRich programs picture](/picture3.jpg)
 ![ÉnergieRich programs picture](/picture4.jpg)
-![ÉnergieRich programs picture](/picture6.jpg)
 ![ÉnergieRich programs picture](/picture7.jpg)
 ![ÉnergieRich programs picture](/picture8.jpg)
 ![ÉnergieRich programs picture](/picture9.jpg)
