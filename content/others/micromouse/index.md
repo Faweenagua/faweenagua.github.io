@@ -19,9 +19,9 @@ tags:
 
 ## Overview
 
-1. This competition challenges students to build a small, autonomous, self-contained robot called the micromouse to solve a given maze. Any team that solves the maze in the fastest time wins the competition.
-2. The competition will present an opportunity for Ashesi University students to apply critical classroom skills to solve an algorithmic and engineering design challenge in a real-world environment.
-3. Additionally, the competition will challenge students to learn and build new skills like PCB design, soldering, hardware programming, and designing and implementing complex algorithms.
+1. **This competition challenges students to build a small, autonomous, self-contained robot called the micromouse to solve a given maze. Any team that solves the maze in the fastest time wins the competition.**
+2. The competition presents an opportunity for Ashesi University students to apply critical classroom skills to solve an algorithmic and engineering design challenge in a real-world environment.
+3. Additionally, the competition challenges students to learn and build new skills like PCB design, soldering, hardware programming, and designing and implementing complex algorithms.
 4. Ultimately, this competition is structured to enable students to hone their skills in all eight Ashesi Learning Goals by demonstrating critical thinking, working in teams, developing innovative solutions, demonstrating an understanding of key technologies, and excellently communicating their ideas, among others.
 5. The competition also presents an opportunity for cross-departmental collaboration and multi-disciplinary teams, as students will need skills from multiple disciplines to solve the challenge.
 
