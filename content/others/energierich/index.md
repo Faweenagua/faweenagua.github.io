@@ -12,7 +12,7 @@ image:
 
 ÉnergieRich advances opportunities for communities to establish durable renewable energy and technology access through local production of innovative appropriate technology.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VPBSfWgTa9A?si=S0w4i1uODkSeSq9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="660" height="390" src="https://www.youtube.com/embed/VPBSfWgTa9A?si=S0w4i1uODkSeSq9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Our Mission
 
