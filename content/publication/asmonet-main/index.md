@@ -25,8 +25,8 @@ publishDate: "2024-10-20T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *52nd IEEE Photovoltaic Specialists Conference (PVSC 52)* [Awaiting Publication]
-publication_short: In *IEEE PVSC* [Awaiting Publication]
+publication: In *2024 IEEE 52nd Photovoltaic Specialist Conference (PVSC)*
+publication_short: In *2024 IEEE 52nd PVSC*
 
 abstract: Photovoltaic energy generation has grown substantially in West Africa within the past few years. Dust soiling, however, can reduce generation capacity, especially during the dry season (Harmattan) in this context. Soiling impacts are ideally assessed using ground-based measurements; however, such systems are sparse or missing entirely in the region, leaving gaps in understanding the true extent of soiling impact locally. This work aims to improve solar data availability in West Africa through the design of a ground-based, IoT-enabled PV sensor system to be installed throughout the region, forming a network. The system leverages a two-panel, one-coupon experimental approach to measuring soiling mass accumulation and a sensor suite to provide real-time and historical data on panel performance, air quality, and weather conditions, among others. Preliminary tests show reliable collection of ground-based data and transmission to the cloud for remote access and analysis, highlighting the system’s potential as a research platform for analysis and insight generation on solar PV in West Africa.
 
@@ -45,7 +45,7 @@ links:
   - name: Web App
     url: https://solar.arelashesi.com
 
-url_pdf: "publication/asmonet-main/conference-paper.pdf"
+url_pdf: "https://doi.org/10.1109/PVSC57443.2024.10749581"
 url_code: ""
 url_dataset: ""
 url_poster: "publication/asmonet-main/conference-poster.pdf"
