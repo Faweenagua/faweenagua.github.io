@@ -20,5 +20,5 @@ main:
   #   url: projects/
   #   weight: 30
   - name: Service
-    url: service/
+    url: others/
     weight: 30
