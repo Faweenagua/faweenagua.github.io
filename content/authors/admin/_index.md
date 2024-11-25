@@ -49,6 +49,8 @@ profiles:
 interests:
   - Robotics
   - Autonomous Systems
+  - Multi-robot Systems
+  - Human-robot Collaboration
   - Internet of Things
 
 education:
