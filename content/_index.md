@@ -35,9 +35,9 @@ sections:
       title: "📝🔬🔎 My Research"
       subtitle: ""
       text: |-
-        I love to research and develop new systems that push the boundaries of Science and Technology especially in Robotics. I am currently working on a project to develop a low-cost, ROS-enabled, interactive robot platform for research and robotics education in African universities.
+        I love to research and develop new systems that push the boundaries of Science and Technology especially in Robotics. **I am interested in combining novel hardware designs with unique software algorithms to advance robot-robot and human-robot collaborations.** I envision a future where two or more ‘stranger’ robots or human and robot can meet and perform tasks together without any limitations.
 
-        I am still exploring my interest areas in Robotics but I am excited by Reinforcement Learning in Robotics, Deep Learning for Robots, Computer Vision and Perception, MultiRobot Systems, Robot Decision Making and the confluence of IoT and Robotics.
+        My areas of interest include Multi-robot systems, Human-robot collaboration, Robot Autonomy, Learning and the confluence of IoT and Robotics.
 
         Please reach out to collaborate 😃
     design:
