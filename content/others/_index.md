@@ -1,5 +1,5 @@
 ---
-title: Service Work and Other Programs
+title: "Service Work"
 view: article-grid
 ---
 
