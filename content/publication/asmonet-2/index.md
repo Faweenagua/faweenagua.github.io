@@ -22,8 +22,8 @@ publishDate: "2024-10-12T00:00:00Z"
 publication_types: ["article-journalpaper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2024 *IEEE International Conference on Artificial Intelligence and Green Energy* (ICAIGE 2024) [Awaiting Publication]"
-publication_short: "IEEE ICAIGE 2024 [Awaiting Publication]"
+publication: "2024 *IEEE International Conference on Artificial Intelligence and Green Energy* (ICAIGE 2024)"
+publication_short: "IEEE ICAIGE 2024"
 
 abstract: The global community is urgently switching to renewable energy sources like photovoltaics (PV) to lessen climate change's increasing and impending repercussions from incessant greenhouse gas emissions. However, PV power output can be degraded by dust soiling. The techno-economic implications of dust soiling have boosted research interest in understanding and finding effective mitigation techniques. PV and environmental data availability can be vital in comprehending and addressing PV soiling losses.  This work seeks to make such data more readily available by identifying a suitable coupon and developing a semi-remote dust deposition measurement subsystem to be integrated into a larger PV soiling monitoring system called ASMONET. The paper investigates different coupon configurations, explores using load cells to automate dust mass deposition measurement, and studies a weighing scale alternative. Plain glass coupons were found to have better evaporation characteristics, while a single-load cell configuration was found to perform best when used with small coupons. Bigger coupons should be used with smart weighing scales, and the coupon should be directly placed on the scale for faster settling times.
 
@@ -38,7 +38,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
+url_pdf: "https://doi.org/10.1109/ICAIGE62696.2024.10776705"
 url_code: ""
 url_dataset: ""
 url_poster: ""
